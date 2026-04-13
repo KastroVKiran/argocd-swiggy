@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: swiggy-container
-          image: kastrov/swiggy
+          image: kastrov/zomato
           ports:
             - containerPort: 3000  # Your app runs on port 3000
 ---
